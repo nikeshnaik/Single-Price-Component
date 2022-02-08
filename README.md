@@ -22,4 +22,4 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ## Solution:
 
-![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
+![Final Output](images/final_results.png)
