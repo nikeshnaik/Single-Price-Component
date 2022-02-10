@@ -23,3 +23,6 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 ## Solution:
 
 ![Final Output](images/final_results.png)
+
+
+Live Deploy: https://unruffled-hoover-697a1b.netlify.app/
